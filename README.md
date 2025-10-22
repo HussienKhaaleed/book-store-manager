@@ -185,10 +185,6 @@ VITE_API_BASE_URL=http://localhost:5000
 - Add pagination for book listings
 - Implement book recommendations
 
-## License
-
-ISC
-
 ---
 
 Made with ❤️ using React, Node.js, and MongoDB.
