@@ -1,0 +1,102 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependency directories
+node_modules
+node_modules/
+/.pnp
+.pnp.js
+
+# Build outputs
+dist
+dist-ssr
+build
+*.local
+coverage/
+.nyc_output/
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.development.local
+.env.test
+.env.test.local
+.env.production
+.env.production.local
+*.env
+
+# Build files
+/build
+/dist
+/out
+/Frontend/build/
+/Frontend/dist/
+/Backend/dist/
+
+# Package locks
+# Uncomment if you want to ignore package locks
+# package-lock.json
+# yarn.lock
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime*
+.atom/
+.history/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+$RECYCLE.BIN/
+
+# Testing
+/coverage
+/cypress/videos/
+/cypress/screenshots/
+.jest-cache
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+.cache
+.temp
+tmp/
+temp/
+
+# Production
+.netlify/
+.firebase/
+.vercel/
+.serverless/
