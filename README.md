@@ -2,11 +2,9 @@
 
 A full-stack web application for managing a book store with user authentication, authorization, and CRUD operations for books. This application includes both a frontend built with React and a backend built with Node.js/Express.
 
-![Book Store App](https://via.placeholder.com/800x400?text=Book+Store+Management+System)
 
 [![Node.js Version](https://img.shields.io/badge/Node.js-16+-green.svg)](https://nodejs.org/)
 [![React Version](https://img.shields.io/badge/React-19.0.0-blue.svg)](https://reactjs.org/)
-[![License](https://img.shields.io/badge/License-ISC-yellow.svg)](https://opensource.org/licenses/ISC)
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-October%202025-brightgreen.svg)]()
 
 > 📚 Modern bookstore management system with secure authentication, role-based access control, and a responsive Material UI frontend.
